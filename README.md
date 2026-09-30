@@ -1,64 +1,66 @@
 <div align="center">
 
-# ⚛️ Todo App: Guia de Iniciantes em React
+# ⚛️ Todo App: React Beginner’s Guide
 
-**Projeto base do guia para quem está começando com React em 2024.**
+**Starter project for the beginner’s guide to React in 2024.**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-[![YouTube](https://img.shields.io/badge/Assista_no_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=XDFhY6sRov8)
-[![DevClub PRO](https://img.shields.io/badge/Canal-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO)
+[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=XDFhY6sRov8)
+[![DevClub PRO](https://img.shields.io/badge/Channel-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO)
 
 </div>
 
 ---
 
-## 🎬 Vídeo
+## 🎬 Video
 
-Este repositório acompanha o vídeo do canal **[DevClub PRO](https://www.youtube.com/@DevClubPRO)**:
+This repository accompanies a video from the **[DevClub PRO](https://www.youtube.com/@DevClubPRO)** channel:
 
 <div align="center">
 
-<a href="https://www.youtube.com/watch?v=XDFhY6sRov8" title="Guia de iniciantes para dominar o React em 2024">
-  <img src="https://img.youtube.com/vi/XDFhY6sRov8/maxresdefault.jpg" alt="Guia de iniciantes para dominar o React em 2024" width="720" />
+<a href="https://www.youtube.com/watch?v=XDFhY6sRov8" title="Beginner's Guide to Mastering React in 2024">
+  <img src="https://img.youtube.com/vi/XDFhY6sRov8/maxresdefault.jpg" alt="Beginner's Guide to Mastering React in 2024" width="720" />
 </a>
 
-**▶️ [Guia de iniciantes para dominar o React em 2024](https://www.youtube.com/watch?v=XDFhY6sRov8)**
+**▶️ [Beginner's Guide to Mastering React in 2024](https://www.youtube.com/watch?v=XDFhY6sRov8)**
+
+<sub>🇧🇷 The video is in Brazilian Portuguese.</sub>
 
 </div>
 
-## 📖 Sobre
+## 📖 About
 
-Este repositório é o ponto de partida do vídeo **"Guia de iniciantes para dominar o React em 2024"**. É uma aplicação React criada com **Vite** que renderiza uma lista de tarefas a partir de um array de dados, ideal para entender os fundamentos da biblioteca.
+This repository is the starting point of the video **"Beginner's Guide to Mastering React in 2024"**. It is a React application created with **Vite** that renders a to-do list from an array of data, a good way to understand the fundamentals of the library.
 
-## 🎯 O que você vai aprender
+## 🎯 What you’ll learn
 
-- Criar um projeto React do zero com Vite
-- Estrutura de um projeto React (`main.jsx`, `App.jsx`)
-- Componentes funcionais e JSX
-- Renderização de listas com `.map()` e a prop `key`
+- Create a React project from scratch with Vite
+- The structure of a React project (`main.jsx`, `App.jsx`)
+- Function components and JSX
+- Rendering lists with `.map()` and the `key` prop
 
-## 🚀 Como rodar
+## 🚀 Getting started
 
-> Pré-requisito: [Node.js](https://nodejs.org/) 18+
+> Prerequisite: [Node.js](https://nodejs.org/) 18+
 
 ```bash
-# 1. Clone o repositório
+# 1. Clone the repository
 git clone https://github.com/agustinhopneto/yt-todo-app.git
 cd yt-todo-app
 
-# 2. Instale as dependências
+# 2. Install the dependencies
 npm install
 
-# 3. Rode o projeto
+# 3. Run the project
 npm run dev
 ```
 
-Acesse **http://localhost:5173** 🎉
+Open **http://localhost:5173** 🎉
 
-## 🛠️ Tecnologias
+## 🛠️ Tech stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
@@ -68,10 +70,10 @@ Acesse **http://localhost:5173** 🎉
 
 <div align="center">
 
-Curtiu? Deixa um ⭐ no repositório e se inscreva no canal!
+Enjoyed it? Leave a ⭐ on the repo and subscribe to the channel!
 
-[![Inscreva-se](https://img.shields.io/badge/Inscreva--se-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO?sub_confirmation=1)
+[![Subscribe](https://img.shields.io/badge/Subscribe-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO?sub_confirmation=1)
 
-Feito com 💙 por **[Agustinho Neto](https://github.com/agustinhopneto)**
+Made with 💙 by **[Agustinho Neto](https://github.com/agustinhopneto)**
 
 </div>
